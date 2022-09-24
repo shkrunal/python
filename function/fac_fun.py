@@ -7,5 +7,5 @@ def fac():
         n=n-1
         i=i+1
     return f
-a=fac()
+a = fac()
 print(a)
